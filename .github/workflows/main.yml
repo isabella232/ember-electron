@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - run-blueprint-manually-ember-cli-4.1
     tags:
       - v*
     
